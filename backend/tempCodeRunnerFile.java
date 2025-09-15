@@ -1,0 +1,1 @@
+private static final String DRIVER_CLASS = "com.mysql.cj.jdbc.Driver";
